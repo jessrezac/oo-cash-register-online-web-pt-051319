@@ -9,7 +9,7 @@ class CashRegister
     @items = []
   end
 
-  def self.total
+  def total
     @total
   end
 
